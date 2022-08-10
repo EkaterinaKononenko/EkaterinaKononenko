@@ -15,7 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/>
   </div>
 
-Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
