@@ -14,8 +14,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/>
   </div>
-<!--
-**EkaterinaKononenko/EkaterinaKononenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ### Hi there 👋
