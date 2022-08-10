@@ -1,10 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/tVZ6yW76c6lxiba3UB/giphy.gif" width="200"/>
-</div>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif" width="400"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,15 +11,20 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/>
   </div>
+  
 
 ### Hi there 👋
-
 ### :woman_technologist: About Me :
+
+<div id="header">
+  <img src="https://media.giphy.com/media/tVZ6yW76c6lxiba3UB/giphy.gif" width="100"/>
+</div> 
 
 - 🔭 I’m currently studying on a Full Stack Developer.
 - 🌱 I’m currently learning Javascript.
 - 💬 Ask me about something.
 - 📫 How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053421090984)
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EkaterinaKononenko&theme=dark&background=000000)](https://git.io/streak-stats)
