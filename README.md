@@ -17,9 +17,9 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently studying on a Full Stack Developer.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Node.js
 - 🌍 I speak English, Ukrainian and Russian languages.
-- 💬 I know Javascript.
+- 💬 I know Javascript, React.
 - 📫 How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053421090984) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ekaterysha_/)
 
 
