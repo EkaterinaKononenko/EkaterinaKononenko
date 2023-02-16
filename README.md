@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&label=Profile%20views&color=0e75b6&style=flat" alt="EkaterinaKononenko" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 </div>
 <!--<div id="badges" align="center">
