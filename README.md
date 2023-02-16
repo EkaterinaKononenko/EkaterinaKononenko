@@ -6,6 +6,7 @@
 </div>
 
 ### 	 Hi &#128075; 	&#128515;
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
 - 🌱 In my free time I solve tasks on codewars. [![codewars](https://www.codewars.com/users/rsschool_781e769882a8cab9/badges/micro)](https://www.codewars.com/users/rsschool_781e769882a8cab9)
@@ -13,6 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-EkaterinaKononenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
 
 ### 🛠 &nbsp;Languages and Tools :
+
  <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
