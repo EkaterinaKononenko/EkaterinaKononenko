@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
 </div>-->
   
-<img align="right" src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/>
+<div><img align="right" src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/></div>
 ### :woman_technologist: Hi there 👋
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
