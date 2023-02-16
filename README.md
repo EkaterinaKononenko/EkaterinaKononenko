@@ -4,6 +4,7 @@
 <p><img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 </div>
+
 ### 	 Hi &#128075; 	&#128515;
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
