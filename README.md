@@ -5,7 +5,7 @@
 </p>
 </div>
 <div id="header" align="center">
-<p><img align="left" alt="GIF" src="./Xw5L.gif" width="350" height="100" />
+<p><img align="left" alt="GIF" src="./Xw5L.gif" width="320" height="100" />
 </p>
 </div>
 
