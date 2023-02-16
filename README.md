@@ -1,17 +1,16 @@
 
-
 <div id="header" align="center">
 <p><img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 </p>
 </div>
 
 ### 	 Hi &#128075; I am Ekaterina	&#128515;
-
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
 - 🌱 In my free time I solve tasks on codewars. [![codewars](https://www.codewars.com/users/rsschool_781e769882a8cab9/badges/micro)](https://www.codewars.com/users/rsschool_781e769882a8cab9)
 - 🌍 I speak English, Ukrainian and Russian languages.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-EkaterinaKononenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
+
 ### 🛠 &nbsp;Languages and Tools :
  <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -27,4 +26,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </p>
-<p><img align="right" src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/></p>
+<p><img align="center" src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/></p>
