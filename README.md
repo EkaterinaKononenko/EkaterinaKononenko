@@ -14,8 +14,7 @@
   </div>
   
 
-### Hi there 👋
-### :woman_technologist: About Me :
+### :woman_technologist: Hi there 👋
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
 - 🌱 In my free time I solve tasks on codewars. [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/rsschool_781e769882a8cab9)
