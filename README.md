@@ -5,7 +5,7 @@
 </p>
 </div>
 
-### 	 Hi &#128075; 	&#128515;
+### 	 Hi &#128075; I am Ekaterina	&#128515;
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
