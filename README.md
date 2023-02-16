@@ -1,7 +1,8 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="400"/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&label=Profile%20views&color=0e75b6&style=flat" alt="EkaterinaKononenko" />
+</p>
 </div>
 <!--<div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
