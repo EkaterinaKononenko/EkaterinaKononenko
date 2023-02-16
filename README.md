@@ -10,7 +10,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭  I’m currently learning everything I can get my hands on.
 - 🌱 In my free time I solve tasks on codewars. [![codewars](https://www.codewars.com/users/rsschool_781e769882a8cab9/badges/micro)](https://www.codewars.com/users/rsschool_781e769882a8cab9)
 - 🌍 I speak English, Ukrainian and Russian languages.
-- 💬 I know Javascript, React, HTML
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-EkaterinaKononenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
 
 ### 🛠 &nbsp;Languages and Tools :
