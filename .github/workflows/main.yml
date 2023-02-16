@@ -1,3 +1,5 @@
+![Анимация змеи]( https://github.com/EkaterinaKononenko/EkaterinaKononenko/blob/output/github-contribution-grid-snake.svg )
+
 name: Generate Datas 
 on: 
   schedule: # выполнить каждые 12 часов 
