@@ -15,12 +15,13 @@
 
 ### Hi there 👋
 ### :woman_technologist: About Me :
-
-- 🔭 I’m currently studying on a Full Stack Developer.
-- 🌱 I’m currently learning Node.js
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- 🔭  I’m currently learning everything I can get my hands on.
+- 🌱 In my free time I solve tasks on codewars. [![Codewars Badge]](https://www.codewars.com/users/rsschool_781e769882a8cab9)
 - 🌍 I speak English, Ukrainian and Russian languages.
-- 💬 I know Javascript, React.
-- 📫 How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100053421090984) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ekaterysha_/)
+- 💬 I know Javascript, React, HTML
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
 
+![Анимация змеи]( https://github.com/EkaterinaKononenko/EkaterinaKononenko/blob/output/github-contribution-grid-snake.svg )
 
 
