@@ -22,6 +22,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 💬 I know Javascript, React, HTML
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
 
-![Анимация змеи]( https://github.com/EkaterinaKononenko/EkaterinaKononenko/blob/output/github-contribution-grid-snake.svg )
-
-
