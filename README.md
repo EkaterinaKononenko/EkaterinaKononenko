@@ -27,4 +27,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </p>
 <p><img align="right" src="https://komarev.com/ghpvc/?username=EkaterinaKononenko&style=flat-square&color=blue" alt=""/></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaKononenko&layout=compact&theme=vision-friendly-dark)](https://github.com/EkaterinaKononenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkaterinaKononenko&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
