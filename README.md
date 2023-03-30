@@ -7,7 +7,7 @@
 ### 	 Hi &#128075; I am Ekaterina	&#128515;
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - 🔭  I’m currently learning everything I can get my hands on.
-- 🌱 In my free time I solve tasks on codewars. ![codewars](https://www.codewars.com/users/EkaterinaKononenko/badges/micro)
+- 🌱 In my free time I solve tasks on codewars. [![codewars](https://www.codewars.com/users/EkaterinaKononenko/badges/micro)](https://www.codewars.com/users/EkaterinaKononenko/)
 - 🌍 I speak English, Ukrainian and Russian languages.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-EkaterinaKononenko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekaterinakononenko/)
 
